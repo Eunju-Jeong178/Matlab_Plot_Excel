@@ -1,4 +1,6 @@
-[num,txt,raw] = xlsread("accuracy_of_ToF.xlsx");  % From the help
+% Author: Eunju Jeong (eunjujeong178@gmail.com)
+
+[num,txt,raw] = xlsread("accuracy_of_ToF.xlsx"); 
 x = num(:, 1);
 y = num(:, 2); 
 plot(x,y,'b-',LineWidth=1.5);
