@@ -7,5 +7,5 @@ plot(x,y,'b-',LineWidth=1.5);
 box off
 xlabel('Distance by ruler [cm]','FontSize',15,'fontname','times new roman') 
 ylabel('Absolute error [cm]','FontSize',15,'fontname','times new roman')
-set(gcf,'Color','w')
+set(gcf,'Color','w')   % the color of back ground (white)
 set(gca,'FontSize',13,'fontname','times new roman')
