@@ -1,3 +1,4 @@
 # Matlab_Plot_Excel
 
-Read Excel data in Matlab and plot the figure.
+This source code reads Excel data on the Matlab and plots the figure.
+
