@@ -1,4 +1,5 @@
-% Author: Eunju Jeong (eunjujeong178@gmail.com)
+% Author: Eunju Jeong 
+% Contact: eunjujeong178@gmail.com
 
 [num,txt,raw] = xlsread("accuracy_of_ToF.xlsx"); 
 x = num(:, 1);
